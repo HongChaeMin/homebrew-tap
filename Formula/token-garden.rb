@@ -3,8 +3,8 @@ class TokenGarden < Formula
 
   desc "LLM 토큰 사용량을 터미널 정원으로 시각화 — GitHub 잔디처럼"
   homepage "https://github.com/HongChaeMin/token-garden"
-  url "https://github.com/HongChaeMin/token-garden/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "475adb1f6d992575f79fa72aeea271412d8d783922f23a9692834230dcdaed90"
+  url "https://github.com/HongChaeMin/token-garden/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "5ba54ea1289355b5cffd2049fa9c26fbdfaff93f77cf98133a9283eb66484391"
   license "MIT"
 
   depends_on "python@3.11"
